@@ -1,24 +1,24 @@
 # Horiseon-Code-Refactor
 
-##Refactoring code on Horiseon's Website
+## Refactoring code on Horiseon's Website
 
 I was asked by a marketing agency to make the codebase for their website follow accessibility standards. Doing so helped optimization for search engines. Using the existing code, I worked to add accessibility features and clean up the code, adding comments in the HTML and CSS file and fixing a broken link in the header. 
 
-##Installation
+## Installation
 
 Clone the GitHub repository and open the index.html file located in /Horiseon-Code-Refactor in your browser to view the website
 
-##Usage
+## Usage
 
 [Here is a link to the deployed page on Github](https://roshjogers.github.io/Horiseon-Code-Refactor/)
 
 ![Image of deployed website](assets/images/screenshot.png)
 
-##Credits
+## Credits
 
 [Josh Rogers](https://github.com/roshjogers)
 
-##License
+## License
 
 Copyright <2021> <Joshua Rogers>
 
