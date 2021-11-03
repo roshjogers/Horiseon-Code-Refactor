@@ -12,7 +12,7 @@ Clone the GitHub repository and open the index.html file located in /Horiseon-Co
 
 [Here is a link to the deployed page on Github](https://roshjogers.github.io/Horiseon-Code-Refactor/)
 
-![Image of deployed website](assets/images/screenshot.png)
+![Image of Horiseon website](assets/images/horiseon-website-screenshot.png)
 
 ## Credits
 
